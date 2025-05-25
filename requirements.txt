@@ -1,0 +1,6 @@
+flask
+twilio
+openai
+whisper
+pydub
+ffmpeg-python
